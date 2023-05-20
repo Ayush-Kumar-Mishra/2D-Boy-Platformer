@@ -1,1 +1,2 @@
 # 2D-Boy-Platformer
+It is a 2D Boy platformer game.In the game there is a player who is going to pass different levels of game.Player can run, jump,move forward-backward and fire.It also have some obstacles like zombies, broken platforms as if player falls down from palyer he will die if he get in contact of zombies he will die.So be sure you overcome these obstacles.Every time player dies he can restart  the game.
